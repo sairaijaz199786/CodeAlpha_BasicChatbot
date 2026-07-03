@@ -1,18 +1,32 @@
 # CodeAlpha Basic Chatbot
 ## About the Project
-I developed this chatbot in Python as part of my CodeAlpha Python Programming Internship. It can respond to simple questions, perform basic calculations, tell the current time, and end the conversation politely.
+This project was developed as part of the **CodeAlpha Python Programming Internship**.
+The Smart Chatbot is a Python-based application that interacts with users through simple text commands. It can greet users, answer basic questions, display the current date and time, perform basic calculations, tell random jokes, and share motivational quotes.
 ## Features
-- Greets the user
-- Answers simple questions
-- Calculator
-- Current time
-- Goodbye message
-## Tools Used
-- Python
-- PyCharm
-## Run the Project
-1. Open BasicChatbot.py in PyCharm.
-2. Run the file.
-3. Start chatting with the bot.
-## Created By
-Sara Ijaz
+- 👋 Greets the user
+- 💬 Responds to basic questions
+- 🕒 Displays the current time
+- 📅 Displays today's date
+- ➕ Built-in calculator
+- 😂 Tells random jokes
+- 💡 Shares motivational quotes
+- 🚪 Exit command to end the chat
+- 😊 Easy-to-use command-line interface
+## Technologies Used
+- Python 3
+- PyCharm IDE
+- Random Module
+- Datetime Module
+## How to Run
+1. Open the project in PyCharm.
+2. Run the `basic_chatbot.py` file.
+3. Enter your name.
+4. Start chatting with the chatbot using the available commands.
+## Project Structure
+CodeAlpha_BasicChatbot/
+│── basic_chatbot.py
+│── README.md
+## Developed By
+**Sara Ijaz**
+## Internship
+This project was created for the **CodeAlpha Python Programming Internship**.
