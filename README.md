@@ -27,6 +27,6 @@ CodeAlpha_BasicChatbot/
 │── basic_chatbot.py
 │── README.md
 ## Developed By
-**Sara Ijaz**
+**Saira Ijaz**
 ## Internship
 This project was created for the **CodeAlpha Python Programming Internship**.
