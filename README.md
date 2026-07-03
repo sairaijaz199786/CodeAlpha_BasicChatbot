@@ -30,6 +30,6 @@ CodeAlpha_BasicChatbot/
 **Saira Ijaz**
 ## Internship
 This project was created for the **CodeAlpha Python Programming Internship**.
-## 📸 Project Screenshot
+## Project Screenshot
 ![Chatbot Screenshot]
 (screenshot.jpeg)
