@@ -31,7 +31,7 @@ pip install flask
 3. Run the Flask app:
 python app.py
 4. Open browser and go to:
-http://127.0.0.1:5000/⁠�
+http://127.0.0.1:5000
 ## Project Screenshot
 ![Chatbot Screenshot](screenshot.jpeg)
 ## Developed By
